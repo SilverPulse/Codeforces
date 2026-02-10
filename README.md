@@ -1,18 +1,22 @@
-# Мои решения задач на Codeforces 🚀
+# Codeforces Solutions 🏆
 
-Здесь я храню свои решения задач с платформы [Codeforces](https://codeforces.com/).
+Репозиторий содержит мои решения задач с платформы [Codeforces](https://codeforces.com/).
+
+---
+
+## 👤 Профиль
+[![Codeforces Stats](https://cf-readme-stats.vercel.app/api?username=ТВОЙ_НИК&theme=dark)](https://codeforces.com/profile/Danil_Kolbasenko_777)
+
+---
 
 ## 📊 Мой Прогресс
 | Категория | Статус |
 | :--- | :--- |
 | **Текущий рейтинг** | ![Rating](https://img.shields.io/badge/dynamic/json?style=flat&label=Rating&query=result.0.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DDanil_Kolbasenko_777) |
 | **Звание** | ![Rank](https://img.shields.io/badge/dynamic/json?style=flat&label=Rank&query=result.0.rank&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DDanil_Kolbasenko_777&color=red) |
-
 ---
 
-## 📚 Решенные задачи
-
-| ID | Название | Сложность | Теги | Решение |
-| :--- | :--- | :---: | :--- | :---: |
-| 4A | Watermelon | 800 | `brute force` | [Python](./Problems/4A.py) |
-| 71A | Way Too Long Words | 800 | `strings` | [Python](./Problems/71A.py) |
+## 🛠 Инструменты
+* **Язык:** Python 3
+* **IDE:** PyCharm
+* **Контесты:** [Codeforces](https://codeforces.com/)
