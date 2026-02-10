@@ -4,4 +4,4 @@
 | :--- | :---: | :---: | :---: |
 | [2185A - Совершенный корень](https://codeforces.com/problemset/problem/2185/A) | ✅ OK | Python | 800 |
 | [2157B - План расширения (4/8)](https://codeforces.com/problemset/problem/2157/B) | ✅ OK | Python | 900 |
-| [2164B - Чётная пара по модулю 2164B](https://codeforces.com/problemset/problem/2164/B) | ✅ OK | Python | 1000 |
+| [2164B - Чётная пара по модулю](https://codeforces.com/problemset/problem/2164/B) | ✅ OK | Python | 1000 |
